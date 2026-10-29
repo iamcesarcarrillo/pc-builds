@@ -51,7 +51,7 @@ My personal gaming PC, which I planned, assembled, configured and troubleshot my
 3. Tested the memory at different settings and speeds before settling on the final configuration.
 
 **Validation:**
-- Stress-tested the system after the changes.
+- Ran MemTest86 on the memory after the changes, with no errors.
 - Followed up with extended real-world use (long gaming sessions).
 - No freezes since. The RAM runs stable at its rated DDR5-6000.
 
